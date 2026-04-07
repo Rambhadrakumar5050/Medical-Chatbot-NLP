@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage
+
+# Models & Data (if large)
+*.pkl
+*.h5
+*.pth
+*.joblib
+*.db
+*.sqlite3
+*.csv
+
+# Environment & Secrets
+.env
+.env.local
+.env.*.local
+config.py
+secrets.py
+*.key
+*.pem
+api_keys.py
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs & Temp
+*.log
+*.tmp
+temp/
+logs/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Frontend (if applicable)
+node_modules/
+dist/
+build/
