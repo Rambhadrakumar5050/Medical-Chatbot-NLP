@@ -4,7 +4,7 @@
 [![NLP](https://img.shields.io/badge/NLP-spaCy%20%7C%20NLTK-green.svg)](https://spacy.io)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> **⚠️ Medical Disclaimer:** This chatbot is for educational and research purposes only. Not intended for medical diagnosis or treatment. Always consult qualified healthcare professionals.
+> **⚠️ Medical Disclaimer:** This chatbot is  for educational and research purposes only. Not intended for medical diagnosis or treatment. Always consult qualified healthcare professionals.
 
 ## 📋 Table of Contents
 - [Overview](#overview)
