@@ -8,7 +8,7 @@
  
 ## 📋 Table of Contents 
 - [Overview](#overview)
-- [Features](#features)
+- [Features](#features) 
 - [Tech Stack](#tech-stack)
 - [Architecture](#architecture)
 - [Installation](#installation)
