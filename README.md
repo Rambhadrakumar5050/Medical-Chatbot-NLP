@@ -33,7 +33,7 @@ MediBot is an intelligent medical chatbot that leverages Natural Language Proces
 ## ✨ Features
 
 ### Core Capabilities
-- ✅ **Symptom Analysis** - Extract symptoms from free-text descriptions
+- ✅ **Symptom Analysis** - Extract symptoms from text descriptions
 - ✅ **Disease Prediction** - ML-based classification of 50+ conditions
 - ✅ **Specialist Recommendation** - Match diseases to medical specialists
 - ✅ **Multi-format Input** - Text and voice (speech-to-text) support
